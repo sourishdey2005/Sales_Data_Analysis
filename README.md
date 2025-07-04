@@ -16,7 +16,7 @@ Order ID, Order Date, Ship Mode, Shipping Cost
 
 Geographical information (City, State)
 
-
+Dataset link - https://www.kaggle.com/datasets/praveenaparimi/sales-data
 
 🧰 Tools & Technologies
 Programming Language: Python 3.8+
